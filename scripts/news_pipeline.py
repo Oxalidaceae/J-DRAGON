@@ -25,8 +25,8 @@ def getresult(client_id, client_secret, query, display=10, start=1, sort='sim'):
     return pd.DataFrame(response_json['items'])
 
 # Naver API certificate information
-client_id = "W5EVZcgnLu64W1U3xWzw"  # Your Client ID
-client_secret = "aLVylRIyxL"  # Your Client Secret
+client_id = "example"  # Your Client ID
+client_secret = "example"  # Your Client Secret
 
 # Query for news articles
 query = '삼성전자 주가 주식'
