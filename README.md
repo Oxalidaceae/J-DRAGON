@@ -140,6 +140,6 @@ This project is distributed under the MIT License.
 
 ..
 
-![J-DRAGON](https://cdn.dailycc.net/news/photo/202312/764587_669135_3615.png)
+![J-DRAGON](images/6.png)
 
 형 해줄거지?
