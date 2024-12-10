@@ -8,7 +8,7 @@ To obtain the API, follow this guide: [click](https://yenpa.tistory.com/2#google
 
 Naver News API Documentation: [click](https://developers.naver.com/docs/serviceapi/search/news/news.md)
 
-Insert the received `Client ID` and `Client Secret` into `news_pipeline.py`.
+Insert the received `Client ID` and `Client Secret` into `news_pipeline.py` in scripts folder.
 
 2. Requirement 2: Libraries
 
