@@ -42,7 +42,7 @@ Therefore, the program collects data from January 1, 2020 up to the date you run
 
 That said, the reliability of the news data is relatively low, as shown below. As a result, the news data is given a lower weight in the model.
 
-![image1][images/1.png]
+![image1](images/1.png)
 
 The method for processing news data is simple: If the number of news articles is greater than the previous day, it is assigned a value of 1; otherwise, it is assigned 0.
 
@@ -70,7 +70,7 @@ During training, the model's performance is evaluated on a separate validation s
 
 The training loss curve is visualized as follows:
 
-![image2][images/2.png]
+![image2](images/2.png)
 
 I determined that 30 epochs is an appropriate value. However, you can adjust it according to your preferences.
 
@@ -86,15 +86,15 @@ Predicted values are visualized using candlestick charts.
 ### 4. Results
 The 7-day prediction is as follows:
 
-![image3][images/3.png]
+![image3](images/3.png)
 
 The 30-day prediction is as follows:
 
-![image4][images/4.png]
+![image4](images/4.png)
 
 The 365-day prediction is as follows:
 
-![image5][images/5.png]
+![image5](images/5.png)
 
 Time elapsed: 385.3863527774811 seconds
 
@@ -140,6 +140,6 @@ This project is distributed under the MIT License.
 
 ..
 
-![J-DRAGON][https://cdn.dailycc.net/news/photo/202312/764587_669135_3615.png]
+![J-DRAGON](https://cdn.dailycc.net/news/photo/202312/764587_669135_3615.png)
 
 형 해줄거지?
